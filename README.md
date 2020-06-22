@@ -1,0 +1,2 @@
+# scopeFocuser
+Scope_Electronic_Focuser-Joystick
